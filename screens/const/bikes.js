@@ -1,0 +1,3 @@
+const bikes = [{ id: 1, price: 1234, img: 'https://unsplash.com/photos/yjAFnkLtKY0/download?force=true&w=640' }, { id: 2, price: 1234, img: 'https://unsplash.com/photos/yjAFnkLtKY0/download?force=true&w=640' }, { id: 3, price: 1234, img: 'https://unsplash.com/photos/yjAFnkLtKY0/download?force=true&w=640' }, { id: 4, price: 1234, img: 'https://unsplash.com/photos/yjAFnkLtKY0/download?force=true&w=640' }, { id: 5, price: 1234, img: 'https://unsplash.com/photos/yjAFnkLtKY0/download?force=true&w=640' }];
+
+export default bikes;
